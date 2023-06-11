@@ -1,5 +1,5 @@
 <div align="center">
-<h3>Welcome to my Gthub :D</h3>
+<h1>Welcome to my Gthub :D</h1>
 
 <p>A place where you can find average code from an average otaku programmer</p>
 
